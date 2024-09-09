@@ -1,0 +1,46 @@
+ Collections
+  Men
+  Women
+  About
+  Contact
+
+  Sneaker Company
+
+  Fall Limited Edition Sneakers
+
+  These low-profile sneakers are your perfect casual wear companion. Featuring a 
+  durable rubber outer sole, they’ll withstand everything the weather can offer.
+
+  $125.00
+  50%
+  $250.00
+
+  0
+  Add to cart
+  
+
+
+
+
+
+
+
+  <div class="item">
+          <img src="images/image-product-1-thumbnail.jpg" alt="">
+          <div class="info">
+            <p>Fall Limited Edition Sneakers</p>
+            <div class="price">
+              <span>$125.00 x <span class="conut">3</span></span>
+              <span class="full-price">$375.00</span>
+            </div>
+          </div>
+          <img src="images/icon-delete.svg" alt="">
+        </div>
+        <div class="checkout">
+          Checkout
+        </div>
+
+
+        <p class="empty">
+          Your cart is empty
+        </p>
